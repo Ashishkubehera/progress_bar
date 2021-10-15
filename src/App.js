@@ -1,6 +1,7 @@
 import './App.css';
 import Progressbar from './component/Progress_bar';
 import ProgressBar from 'react-bootstrap/ProgressBar'
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
      
